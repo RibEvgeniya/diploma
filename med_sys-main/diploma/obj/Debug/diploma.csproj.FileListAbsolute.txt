@@ -1,0 +1,466 @@
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\diploma.exe.config
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\diploma.exe
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\diploma.pdb
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\Guna.UI2.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\Npgsql.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Buffers.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Memory.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Text.Json.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Threading.Channels.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.ValueTuple.dll
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\Npgsql.xml
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Buffers.xml
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Memory.xml
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Text.Json.xml
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Threading.Channels.xml
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Риб\source\repos\diploma\diploma\bin\Debug\System.ValueTuple.xml
+C:\Users\Риб\source\repos\diploma\diploma\obj\Debug\diploma.csproj.AssemblyReference.cache
+C:\Users\Риб\source\repos\diploma\diploma\obj\Debug\diploma.Properties.Resources.resources
+C:\Users\Риб\source\repos\diploma\diploma\obj\Debug\diploma.csproj.GenerateResource.cache
+C:\Users\Риб\source\repos\diploma\diploma\obj\Debug\diploma.csproj.CoreCompileInputs.cache
+C:\Users\Риб\source\repos\diploma\diploma\obj\Debug\diploma.csproj.Up2Date
+C:\Users\Риб\source\repos\diploma\diploma\obj\Debug\diploma.exe
+C:\Users\Риб\source\repos\diploma\diploma\obj\Debug\diploma.pdb
+C:\Users\Риб\source\repos\diploma\diploma\obj\Debug\diploma.sign_in.resources
+C:\Users\Риб\source\repos\diploma\diploma\obj\Debug\diploma.start.resources
+C:\Users\Риб\source\repos\diploma\diploma\obj\Debug\diploma.admin_main.resources
+C:\Users\Риб\source\repos\diploma\diploma\obj\Debug\diploma.pat_menu.resources
+C:\Users\Риб\source\repos\diploma\diploma\obj\Debug\diploma.emp_db.resources
+C:\Users\Риб\source\repos\diploma\diploma\obj\Debug\diploma.emp_menu.resources
+C:\Users\Риб\source\repos\diploma\diploma\obj\Debug\diploma.add_up_emp.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\diploma.exe.config
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\diploma.exe
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\diploma.pdb
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\Guna.UI2.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\Npgsql.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Buffers.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Memory.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Text.Json.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Threading.Channels.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.ValueTuple.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\Npgsql.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Buffers.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Memory.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Text.Json.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Threading.Channels.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\System.ValueTuple.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.csproj.AssemblyReference.cache
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.add_up_emp.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.admin_main.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.change_pass.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.docUserControl.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.emp_db.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.emp_menu.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.make_app.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.pat_menu.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.set_date_app.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.sheduler.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.sign_in.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.spec_db.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.start.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.Properties.Resources.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.csproj.GenerateResource.cache
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.csproj.Up2Date
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.exe
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.pdb
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.timeUserControl.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.app_db.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.add_up_app.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.blankUserControl.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.dayUserControl.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.work_hours_db.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.add_up_wh.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.schema_db.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.add_up_post.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.post_db.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.dis_db.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.add_up_dis.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.add_up_spec.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.add_up_assign_spec.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.payment_db.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.proc_db.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.add_up_proc.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.add_up_assign_proc.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.make_diag.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.csproj.ResolveComReference.cache
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\Spire.Doc.dll
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Женя\Downloads\med_sys-main\diploma\bin\Debug\Spire.Doc.xml
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.med_db.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.add_up_med.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.vac_db.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.add_up_vac.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.vac_pat_db.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.add_up_vac_pat.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.pat_db.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.add_up_pat.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.add_up_payment.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.add_up_more_info.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.emp_app.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.diagUserControl.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.make_vac.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.make_ana.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.hist_vac.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.vacUserControl.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.choose_med.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.hist_an.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.hist_med.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.anUserControl.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.choose_dis.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.hist_diag.resources
+C:\Users\Женя\Downloads\med_sys-main\diploma\obj\Debug\diploma.medUserControl.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\diploma.exe.config
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\diploma.exe
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\diploma.pdb
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\Guna.UI2.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\Npgsql.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\Spire.Doc.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Buffers.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Memory.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Text.Json.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Threading.Channels.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.ValueTuple.dll
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\Npgsql.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\Spire.Doc.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Buffers.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Memory.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Text.Json.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Threading.Channels.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\bin\Debug\System.ValueTuple.xml
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.csproj.AssemblyReference.cache
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.csproj.ResolveComReference.cache
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_app.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_assign_proc.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_assign_spec.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_dis.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_emp.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_med.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_more_info.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_pat.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_payment.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_post.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_proc.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_spec.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_vac.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_vac_pat.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_wh.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.admin_main.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.anUserControl.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.app_db.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.blankUserControl.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.change_pass.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.choose_dis.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.choose_med.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.dayUserControl.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.diagUserControl.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.dis_db.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.docUserControl.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.emp_app.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.emp_db.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.emp_menu.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.hist_an.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.hist_diag.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.hist_med.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.hist_vac.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.make_ana.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.make_app.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.make_diag.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.make_vac.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.medUserControl.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.med_db.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.pat_db.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.pat_menu.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.payment_db.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.post_db.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.proc_db.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.schema_db.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.set_date_app.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.sheduler.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.sign_in.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.spec_db.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.start.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.Properties.Resources.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.timeUserControl.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.vacUserControl.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.vac_db.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.vac_pat_db.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.work_hours_db.resources
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.csproj.GenerateResource.cache
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.csproj.CoreCompileInputs.cache
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.csproj.Up2Date
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.exe
+C:\Users\Риб\Desktop\Женя\diplom\приложение\med_sys-main\diploma\obj\Debug\diploma.pdb
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\diploma.exe.config
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\diploma.exe
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\diploma.pdb
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\Guna.UI2.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\Npgsql.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\Spire.Doc.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Buffers.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Memory.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Text.Json.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Threading.Channels.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.ValueTuple.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\Npgsql.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\Spire.Doc.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Buffers.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Memory.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Text.Json.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Threading.Channels.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\bin\Debug\System.ValueTuple.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.csproj.AssemblyReference.cache
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.csproj.ResolveComReference.cache
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_app.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_assign_proc.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_assign_spec.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_dis.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_emp.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_med.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_more_info.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_pat.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_payment.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_post.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_proc.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_spec.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_vac.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_vac_pat.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.add_up_wh.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.admin_main.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.anUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.app_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.blankUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.change_pass.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.choose_dis.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.choose_med.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.dayUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.diagUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.dis_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.docUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.emp_app.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.emp_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.emp_menu.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.hist_an.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.hist_diag.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.hist_med.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.hist_vac.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.make_ana.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.make_app.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.make_diag.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.make_vac.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.medUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.med_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.pat_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.pat_menu.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.payment_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.post_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.proc_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.schema_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.set_date_app.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.sheduler.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.sign_in.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.spec_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.start.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.Properties.Resources.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.timeUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.vacUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.vac_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.vac_pat_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.work_hours_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.csproj.GenerateResource.cache
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.csproj.CoreCompileInputs.cache
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.csproj.Up2Date
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.exe
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.pdb
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\приложение\med_sys-main\diploma\obj\Debug\diploma.exe.config
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\diploma.exe.config
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\diploma.exe
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\diploma.pdb
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\Guna.UI2.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\Npgsql.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\Spire.Doc.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Buffers.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Memory.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Text.Json.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Threading.Channels.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.ValueTuple.dll
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\Npgsql.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\Spire.Doc.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Buffers.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Memory.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Text.Json.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Threading.Channels.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\bin\Debug\System.ValueTuple.xml
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.csproj.AssemblyReference.cache
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.exe.config
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.csproj.ResolveComReference.cache
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.add_up_app.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.add_up_assign_proc.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.add_up_assign_spec.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.add_up_dis.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.add_up_emp.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.add_up_med.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.add_up_more_info.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.add_up_pat.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.add_up_payment.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.add_up_post.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.add_up_proc.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.add_up_spec.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.add_up_vac.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.add_up_vac_pat.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.add_up_wh.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.admin_main.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.anUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.app_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.blankUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.change_pass.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.choose_dis.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.choose_med.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.dayUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.diagUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.dis_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.docUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.emp_app.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.emp_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.emp_menu.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.hist_an.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.hist_diag.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.hist_med.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.hist_vac.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.make_ana.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.make_app.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.make_diag.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.make_vac.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.medUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.med_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.pat_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.pat_menu.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.payment_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.post_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.proc_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.schema_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.set_date_app.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.sheduler.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.sign_in.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.spec_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.start.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.Properties.Resources.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.timeUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.vacUserControl.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.vac_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.vac_pat_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.work_hours_db.resources
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.csproj.GenerateResource.cache
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.csproj.CoreCompileInputs.cache
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.csproj.Up2Date
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.exe
+C:\Users\Риб\Desktop\Женя\ДИПЛОМ\ДЛЯ СДАЧИ\med_sys-main\diploma\obj\Debug\diploma.pdb
